@@ -1,0 +1,20 @@
+<!-- generated: 2026-07-18 | method: generated | source: apis.yml + getduranta.com (marketing + solutions pages) -->
+# Duranta Labs
+
+> Duranta Labs is an applied AI laboratory building geospatial and computer-vision technology to understand the physical world. Its foundation vision model, Aidan, generates accurate, current 4D digital twins from optical imagery. Duranta is a proptech company backed by Fifth Wall. As of this writing Duranta publishes no public API, developer portal, or SDK — this file summarizes the company's public surface for agents.
+
+## Solutions
+- [Landscapers](https://getduranta.com/our-solutions): Measure, design, and bid any property from optical imagery — no site visit required.
+- [World Model](https://getduranta.com/our-solutions): Instantly generate accurate, current 4D digital twins from optical imagery.
+- [AEC (Architecture, Engineering, Construction)](https://getduranta.com/our-solutions): Coming soon — turns an address into a precise digital model for design and construction.
+
+## Company
+- [Website](https://getduranta.com/): Company home and product overview.
+- [Careers](https://getduranta.com/careers): Open roles at Duranta Labs.
+- [Blog](https://landscape.getduranta.com/blog): Product and company updates on the Landscape app.
+- [GitHub (GetDuranta)](https://github.com/GetDuranta): Public engineering repositories (tooling and mobile/React Native support libraries; no first-party API SDK).
+- Contact: hello@getduranta.com
+
+## Legal
+- [Privacy Policy](https://getduranta.com/privacy)
+- [Terms of Service](https://getduranta.com/terms)
