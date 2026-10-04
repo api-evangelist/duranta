@@ -44,7 +44,7 @@ tags:
 - Company
 - PropTech
 - Artificial Intelligence
-- Computer-Vision
+- Computer Vision
 - Geospatial
 - Digital Twin
 - Landscaping
@@ -58,6 +58,7 @@ tags_raw:
 - Digital Twin
 - Landscaping
 - Construction
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
